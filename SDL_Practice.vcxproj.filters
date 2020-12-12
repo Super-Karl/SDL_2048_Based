@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="manage">
+      <UniqueIdentifier>{32a14b95-c3cf-4fbc-8b14-d1a6360691be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameState">
+      <UniqueIdentifier>{dbc53260-ec47-4293-861b-5911c0169ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sprite">
+      <UniqueIdentifier>{dc58e7e2-2ea5-4fb6-a0b3-891465106b03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="cpp.hint" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sourceCode\CGame.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CTimer.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\main.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CAudioManage.cpp">
+      <Filter>manage</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CInputHandle.cpp">
+      <Filter>manage</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CTextureManager.cpp">
+      <Filter>manage</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CMenuState.cpp">
+      <Filter>gameState</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CPlayState.cpp">
+      <Filter>gameState</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CStateManage.cpp">
+      <Filter>gameState</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CButton.cpp">
+      <Filter>Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CEndState.cpp">
+      <Filter>gameState</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CCollisionManager.cpp">
+      <Filter>manage</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CFontManager.cpp">
+      <Filter>manage</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CObject.cpp">
+      <Filter>Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CCell.cpp">
+      <Filter>Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="sourceCode\CFileManage.cpp">
+      <Filter>manage</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sourceCode\CGame.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CTimer.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\Vector2D.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CAudioManage.h">
+      <Filter>manage</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CInputHandle.h">
+      <Filter>manage</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CTextureManager.h">
+      <Filter>manage</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CMenuState.h">
+      <Filter>gameState</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CPlayState.h">
+      <Filter>gameState</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CState.h">
+      <Filter>gameState</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CStateManage.h">
+      <Filter>gameState</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CButton.h">
+      <Filter>Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CEndState.h">
+      <Filter>gameState</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CCollisionManager.h">
+      <Filter>manage</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CFontManager.h">
+      <Filter>manage</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CObject.h">
+      <Filter>Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\enums.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CCell.h">
+      <Filter>Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="sourceCode\CFileManage.h">
+      <Filter>manage</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

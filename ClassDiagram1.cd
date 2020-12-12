@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CGame" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAABCAAQQAgAAEQAACAAAAAAAAIQBEiAKCAgwA=</HashCode>
+      <FileName>sourceCode\CGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTimer" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABAAACgAQACAAAQIAgAAAAAQAEAAAAEEEg=</HashCode>
+      <FileName>sourceCode\CTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQEAAAAEAGAQAAQAAAAAAAAAAgAGAAAAA=</HashCode>
+      <FileName>sourceCode\Vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEndState" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAgAIAAAIAAAAAAABAAAAAAAAAAAEFAAACUAAA=</HashCode>
+      <FileName>sourceCode\CEndState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMenuState" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAIAAAIAAAAAAABAAAAAAAEAAAGFAAACUAAA=</HashCode>
+      <FileName>sourceCode\CMenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlayState" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABBQIAAQIAAAQAIUBAAAAQAAAAAIEFACECUBCA=</HashCode>
+      <FileName>sourceCode\CPlayState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CState" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAEgBAAAAAAAAAAACFAAACUAAA=</HashCode>
+      <FileName>sourceCode\CState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStateManage" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAAAAAUAAIAAAgAAAAAAAAFAAAAUAQA=</HashCode>
+      <FileName>sourceCode\CStateManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAudioManage" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>sourceCode\CAudioManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileManage" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQQEAAAAAAAA=</HashCode>
+      <FileName>sourceCode\CFileManage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFontManager" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAACoAAAAAAAAAAAAAAAAAAAAEIQAFQAAAAAAA=</HashCode>
+      <FileName>sourceCode\CFontManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInputHandle" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAQAAAEAKAAAAAAgAEgEqQAEACgAABAwAkCAAAGAAA=</HashCode>
+      <FileName>sourceCode\CInputHandle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTextureManager" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIABAEAAAAIAAAAIAAAAAECQQAEAIQAECAA=</HashCode>
+      <FileName>sourceCode\CTextureManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CButton" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAAAAAAAIAAAAACAAAAAAAAABAAAAFAAA=</HashCode>
+      <FileName>sourceCode\CButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCell" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAIAABAAAAAAAAAAAABAAAAEAAA=</HashCode>
+      <FileName>sourceCode\CCell.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObject" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UIg4IkAAAOgIlAIiaEOkgAGCAAAAcAQIwADAgSKVAQE=</HashCode>
+      <FileName>sourceCode\CObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="cell" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sourceCode\CPlayState.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Board" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sourceCode\CPlayState.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="button_state" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>sourceCode\enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="state_state" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>sourceCode\enums.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="sound_type" Collapsed="true">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sourceCode\CAudioManage.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="mouse_buttons" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAABAgAAAAAAAAAAA=</HashCode>
+      <FileName>sourceCode\CInputHandle.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
